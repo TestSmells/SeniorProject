@@ -28,7 +28,6 @@ jobs:
         run: |
           pnpm install
           pnpm run build --if-present
-          pnpm test --passWithNoTests
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
