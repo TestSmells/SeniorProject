@@ -36,5 +36,5 @@ jobs:
         # below accordingly.
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
-          github_token: ${{ secrets.PRIVATE_DEPLOYMENT_KEY }}
+          deploy_key: ${{ secrets.PRIVATE_DEPLOYMENT_KEY }}
           publish_dir: ./build
