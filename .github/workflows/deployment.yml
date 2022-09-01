@@ -3,7 +3,7 @@ name: Deploy Senior Project Website
 on:
   push:
     branches:
-      - main  # Set a branch name to trigger deployment
+      - master  # Set a branch name to trigger deployment
   pull_request:
 
 jobs:
