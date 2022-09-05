@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
 import { Navbar, Nav, Container } from 'react-bootstrap';
@@ -9,8 +9,8 @@ function App() {
       <Navbar bg="dark" variant="dark">
         <Container>
             <Nav className="me-auto">
-              <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="/#/about">About Us</Nav.Link>
+              <Nav.Link as={Link} to="/">Home</Nav.Link>
+              <Nav.Link as={Link} to="/about">About Us</Nav.Link>
             </Nav>
         </Container>
       </Navbar>
