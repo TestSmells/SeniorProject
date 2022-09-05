@@ -9,14 +9,14 @@ function App() {
       <Navbar bg="dark" variant="dark">
         <Container>
             <Nav className="me-auto">
-              <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="/about">About Us</Nav.Link>
+              <Nav.Link href="/website">Home</Nav.Link>
+              <Nav.Link href="/website/about">About Us</Nav.Link>
             </Nav>
         </Container>
       </Navbar>
       <Container className="mt-10">
         <Routes>
-            <Route path="/website/" element={<Home />} />
+            <Route path="/website" element={<Home />} />
             <Route path="/website/about" element={<About />} />
         </Routes>
       </Container>
