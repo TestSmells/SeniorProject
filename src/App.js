@@ -1,15 +1,25 @@
-
-import './App.css';
+import { Routes, Route } from 'react-router-dom';
+import Home from './pages/Home';
+import About from './pages/About';
+import { Navbar, Nav, Container } from 'react-bootstrap';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src="https://www.se.rit.edu/resources/images/se_logo_2021.png" className="App-logo" alt="logo" />
-        <p>
-          Soon to be Anti-Pattern Intellij Plugin Project Team Website!
-        </p>
-      </header>
+      <Navbar bg="dark" variant="dark">
+        <Container>
+            <Nav className="me-auto">
+              <Nav.Link href="/">Home</Nav.Link>
+              <Nav.Link href="/about">About Us</Nav.Link>
+            </Nav>
+        </Container>
+      </Navbar>
+      <Container className="mt-10">
+        <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/about" element={<About />} />
+        </Routes>
+      </Container>
     </div>
   );
 }

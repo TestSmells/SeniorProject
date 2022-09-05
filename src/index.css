@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  font-weight: bold;
+}
+
+.mt-10 {
+  margin-top: 0.50rem !important;
+}
+
+.team-member-card {
+  width: 20rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
+.card-row {
+  margin-bottom: 0.5rem;
+}
