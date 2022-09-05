@@ -39,3 +39,4 @@ jobs:
         with:
           deploy_key: ${{ secrets.PRIVATE_DEPLOYMENT_KEY }}
           publish_dir: ./build
+          allow_empty_commit: true
