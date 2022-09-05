@@ -16,8 +16,8 @@ function App() {
       </Navbar>
       <Container className="mt-10">
         <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
+            <Route path="/website" element={<Home />} />
+            <Route path="/website/about" element={<About />} />
         </Routes>
       </Container>
     </div>
