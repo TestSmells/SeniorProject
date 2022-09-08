@@ -1,4 +1,4 @@
-name: Deploy Senior Project Website
+name: deploy
 
 on:
   push:

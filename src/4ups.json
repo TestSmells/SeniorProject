@@ -1,0 +1,25 @@
+[
+    {
+        "StartDate": "August 29th, 2022",
+        "Progress": [
+            "Setup initial team website repository & workflow for deploying changes to live site",
+            "Signed & collected open source agreements",
+            "Organized & attended our team social event"
+        ],
+        "Risks": ["Challenge of working across two separate teams: one being our Rochester-based project team and the Hawaii-based team"],
+        "Plans": [
+            "Each member walkthrough TestSmells repository/code, get program running locally",
+            "Begin development of our initial domain model"
+        ],
+        "Needs": ["Clarification on working structure with Hawaii students"]
+    },
+    {
+        "StartDate": "September 5th, 2022",
+        "Progress": [
+            "Added weekly update page to website with ability to add, modify, and delete 4ups at any point in time",
+            "Continued development of initial domain model"],
+        "Risks": [],
+        "Plans": [],
+        "Needs": []
+    }
+]
