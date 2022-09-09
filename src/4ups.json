@@ -16,10 +16,21 @@
     {
         "StartDate": "September 5th, 2022",
         "Progress": [
-            "Added weekly update page to website with ability to add, modify, and delete 4ups at any point in time",
-            "Continued development of initial domain model"],
-        "Risks": [],
-        "Plans": [],
-        "Needs": []
+            "Added weekly update page to website with ability to add, modify, and delete 4-Ups at any point in time",
+            "Continued development of initial domain model",
+            "Created project synopsis draft to be reviewed with the sponsors"],
+        "Risks": [
+            "None that affect the current plans we have for both this week and the next"
+        ],
+        "Plans": [
+            "Finalize domain model and development methodology",
+            "Gain approval on project synopsis & update website with this description",
+            "Determine metrics for the project",
+            "Finalize relevant search keywords for project: Test-smell, Test(ing), Plugin, Java, Analysis"
+        ],
+        "Needs": [
+            "Pending sponsor/coach feedback, hosting platform for possible database solution & dashboard",
+            "Code walkthrough video"
+        ]
     }
 ]
