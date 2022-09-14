@@ -1,8 +1,8 @@
 {
-  "name": "senior-project-website",
+  "name": "senior-project-websites",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rit-swen-anti-pattern-intellij-plugin.github.io/website/",
+  "homepage": "https://testsmells.org/seniorprojects/22-23rit/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
