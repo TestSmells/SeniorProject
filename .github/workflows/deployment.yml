@@ -27,7 +27,6 @@ jobs:
 
       - name: Build RIT22-23
         run: |
-          cd 22-23rit
           pnpm install
           pnpm run build --if-present
 
@@ -40,4 +39,5 @@ jobs:
         with:
           deploy_key: ${{ secrets.PRIVATE_DEPLOYMENT_KEY }}
           publish_dir: ./build
+          destination_dir: 22-23rit
           allow_empty_commit: true
