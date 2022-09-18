@@ -32,5 +32,25 @@
             "Pending sponsor/coach feedback, hosting platform for possible database solution & dashboard",
             "Code walkthrough video"
         ]
+    },
+    {
+        "StartDate": "September 12th, 2022",
+        "Progress": [
+            "Transferred website to github organization used for TSDetect development",
+            "Development methodology & process draft produced and discussed in detail",
+            "Code walkthrough review and extensive research into the codebase",
+            "Initial domain model design finalized for submission",
+            "Initial breakdown of tasks for each feature"
+        ],
+        "Risks": [
+            "Minor risk: need to ensure we communicate with the Hawaii-based team to ensure we establish the format for results that we will be using for results tracking"
+        ],
+        "Plans": [
+            "Using our gathered requirements, begin breaking down the epics/stories we have in the github kanban board currently into tasks that can be completed in various sprints. This also includes setting up a high-level timeline for different sprints",
+            "The above goes hand-in-hand with our ‘finalized project plan’ which we will be discussing going forward, specifically that of: Will we need a new method of managing risks aside from 4-ups?"
+        ],
+        "Needs": [
+            "Sponsor approval on the final initial project plan"
+        ]
     }
 ]
