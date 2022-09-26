@@ -52,5 +52,25 @@
         "Needs": [
             "Sponsor approval on the final initial project plan"
         ]
+    },
+    {
+        "StartDate": "September 19th, 2022",
+        "Progress": [
+            "Initial breakdown of stories with associated story point values",
+            "Begin brief look into topics tied to our spike stories, specifically headless mode"
+        ],
+        "Risks": [
+            "Potential minor risk: inaccurate point estimation for current stories",
+            "Some stories have questions tied to them that can radically change their story point value",
+            "Midterms are beginning, so members will have less availability than usual"
+        ],
+        "Plans": [
+            "Continue breaking down requirements",
+            "Complete headless mode spike",
+            "Begin midterm assessment review"
+        ],
+        "Needs": [
+            "Determination on if we are collecting some identifying information in the centralized database"
+        ]
     }
 ]
