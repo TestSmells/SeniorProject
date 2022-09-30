@@ -10,6 +10,7 @@ const Home = () => {
                 <h4><strong>Terminology</strong></h4>
                 <p>
                     Test code smells - Poor unit testing practices that may indicate deeper problems in the source code
+                    <br></br>
                     Unit tests - Tests intended to test a specific functionality of the source code 
                 </p>
                 <h4><strong>Project Description</strong></h4>
