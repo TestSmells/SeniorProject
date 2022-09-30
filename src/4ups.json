@@ -72,5 +72,21 @@
         "Needs": [
             "Determination on if we are collecting some identifying information in the centralized database"
         ]
+    },
+    {
+        "StartDate": "September 26th, 2022",
+        "Progress": [
+            "Pivoted to database schema spike and conducted research",
+            "Decided on 3 primary choices for the database"
+        ],
+        "Risks": [
+            "None"
+        ],
+        "Plans": [
+            "Begin filling out midterm evaluation document "
+        ],
+        "Needs": [
+            "Schedule the midterm retrospective meeting (~40 minutes during a sponsor meeting)"
+        ]
     }
 ]
