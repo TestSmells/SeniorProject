@@ -88,5 +88,29 @@
         "Needs": [
             "Schedule the midterm retrospective meeting (~40 minutes during a sponsor meeting)"
         ]
+    },
+    {
+        "StartDate": "October 3rd, 2022",
+        "Progress": [
+            "Added user stories to Kanban board",
+            "Assigned user stories and defined requirements for stories in Sprint 1",
+            "Database ER diagram & schema defined",
+            "MySQL database and phpMyAdmin setup with Docker containers: One command to create and run both containers",
+            "SQL script to populate db with random data for testing purposes",
+            "Began investigations into modes of communication with the database",
+            "Made progress on midterm review","Began drafting landing page for the dashboard",
+            "Wrote first draft of API specification document"
+        ],
+        "Risks": [
+            "Centralized data piping story poorly defined, needs breakdown and redefinition"
+        ],
+        "Plans": [
+            "Continue progressing on existing stories",
+            "Solidify communication methods with the server",
+            "First draft of database webpage"
+        ],
+        "Needs": [
+            "None at this moment"
+        ]
     }
 ]
