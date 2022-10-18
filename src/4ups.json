@@ -112,5 +112,24 @@
         "Needs": [
             "None at this moment"
         ]
+    },
+    {
+        "StartDate": "October 10th, 2022",
+        "Progress": [
+            "Defined database schema",
+            "Finalized midterm review document",
+            "PR up for landing view of the dashboard"
+        ],
+        "Risks": [
+            "Lack of documented requirements in organized fashion"
+        ],
+        "Plans": [
+            "Discuss data communication story and breakdown into smaller stories.",
+            "Discuss midterm review document with sponsor and coaches.",
+            "Sprint retrospective"
+        ],
+        "Needs": [
+            "Midterm review document"
+        ]
     }
 ]
