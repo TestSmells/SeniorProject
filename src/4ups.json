@@ -131,5 +131,28 @@
         "Needs": [
             "Midterm review document"
         ]
+    },
+    {
+        "StartDate": "October 17th, 2022",
+        "Progress": [
+            "Added users with permissions to the database for the plugin and dashboard",
+            "Research into headless mode",
+            "Progress on Server-side database interaction tools",
+            "Proposed solution for configuration of popup (storing of opt-in permission)",
+            "Initial breakdown of data piping story (unfinished)",
+            "Sprint retrospective",
+            "Created project timeline"
+        ],
+        "Risks": [
+            "Lack of documented requirements in organized fashion"
+        ],
+        "Plans": [
+            "Discuss data communication story and breakdown into smaller stories.",
+            "Discuss midterm review document with sponsor and coaches.",
+            "Sprint retrospective"
+        ],
+        "Needs": [
+            "Midterm review document"
+        ]
     }
 ]
