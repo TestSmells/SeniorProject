@@ -154,5 +154,24 @@
         "Needs": [
             "Midterm review document"
         ]
+    },
+    {
+        "StartDate": "October 24th, 2022",
+        "Progress": [
+            "Headless mode works for single and multiple projects: ApplicationStarter class created and set as appStarter extension in plugin.xml\nAnalyzes projects passed in as arguments, Prints the results to the console similar to how they are displayed in the UI",
+            "Requirements clarification",
+            "Sprint two planning"
+        ],
+        "Risks": [
+            "Midterms round two this week"
+        ],
+        "Plans": [
+            "Create custom gradle task for headless mode",
+            "Assign stories for sprint two in sprint planning",
+            "Begin setup of server application"
+        ],
+        "Needs": [
+            "None"
+        ]
     }
 ]
