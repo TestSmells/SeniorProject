@@ -173,5 +173,26 @@
         "Needs": [
             "None"
         ]
+    },
+    {
+        "StartDate": "October 31st, 2022",
+        "Progress": [
+            "Finished PRs left over from Sprint 1",
+            "Got popup into review",
+            "Began Sprint 2 server application running with functioning example endpoint",
+            "Headless mode scripts functional"
+        ],
+        "Risks": [
+            "None"
+        ],
+        "Plans": [
+            "Finish server application configuration",
+            "Finish opt-in popup functionality",
+            "Finish headless mode script and custom gradle task",
+            "Begin developing our <1 minute video demonstrating project"
+        ],
+        "Needs": [
+            "None"
+        ]
     }
 ]
