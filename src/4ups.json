@@ -194,5 +194,26 @@
         "Needs": [
             "None"
         ]
+    },
+    {
+        "StartDate": "November 7th, 2022",
+        "Progress": [
+            "Initial server application running",
+            "Thoroughly reviewed and merged in PRs from sprint one ",
+            "Popup/checkbox in testing stages ",
+            "Report CSV functional for headless and regular running",
+            "Plugin data converted to JSON wrapped HashMap"
+        ],
+        "Risks": [
+            "None"
+        ],
+        "Plans": [
+            "Record video",
+            "Continue sprint 2 stories",
+            "Begin end of semester presentation"
+        ],
+        "Needs": [
+            "None"
+        ]
     }
 ]
