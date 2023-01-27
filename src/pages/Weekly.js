@@ -14,11 +14,20 @@ const Home = () => {
             </Row>
             <Row>
                 <Col sm={2}>
-                    <a href="https://docs.google.com/spreadsheets/d/18-L8U9jV1wC0lBaZethwOkAlIVz_PU4vnbdsJsMclNw/edit?usp=sharing">
-                        <Button variant="success">
-                            Time Tracking Spreadsheet
-                        </Button>
-                    </a>
+                    <Row className="weekly-menu-item">
+                        <a href="https://docs.google.com/spreadsheets/d/18-L8U9jV1wC0lBaZethwOkAlIVz_PU4vnbdsJsMclNw/edit?usp=sharing">
+                            <Button variant="success">
+                                Fall Time Tracking Spreadsheet
+                            </Button>
+                        </a>
+                    </Row>
+                    <Row className="weekly-menu-item">
+                        <a href="tbd">
+                            <Button variant="warning">
+                                Spring Time Tracking (TODO)
+                            </Button>
+                        </a>
+                    </Row>
                 </Col>
                 <Col>
                     <Accordion>

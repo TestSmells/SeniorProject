@@ -215,5 +215,29 @@
         "Needs": [
             "None"
         ]
+    },
+    {
+        "StartDate": "January 23rd, 2023",
+        "Progress": [
+            "Completed unit testing of API repository layer classes.",
+            "Developed solution for networking between docker containers (database and server application). Still need to resolve an issue with datasource setup on the server application side of things.",
+            "User instructions for running the tool created."
+        ],
+        "Risks": [
+            "General schedule concerns",
+            "Usability testing scope",
+            "Team illness",
+            "TSDetect tool bug rendering it inoperable in various runs"
+        ],
+        "Plans": [
+            "Refamiliarize ourselves with environment, begin working on final set of features for MVP.",
+            "Begin fleshing out script for usability testing later in semester.",
+            "Begin drafting technical report document for EOS.",
+            "Finish up Pull Requests for completed stories."
+        ],
+        "Needs": [
+            "Determine where the server is going to live.",
+            "Field interest for usability testing users."
+        ]
     }
 ]
