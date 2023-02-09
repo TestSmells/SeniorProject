@@ -217,7 +217,7 @@
         ]
     },
     {
-        "StartDate": "January 23rd, 2023",
+        "StartDate": "January 26th, 2023",
         "Progress": [
             "Completed unit testing of API repository layer classes.",
             "Developed solution for networking between docker containers (database and server application). Still need to resolve an issue with datasource setup on the server application side of things.",
@@ -238,6 +238,45 @@
         "Needs": [
             "Determine where the server is going to live.",
             "Field interest for usability testing users."
+        ]
+    },
+    {
+        "StartDate": "February 2nd, 2023",
+        "Progress": [
+            "Causes of incorrect report generation behavior has been identified",
+            "Merged the opt in popup to main",
+            "Completed testing of the API service layer"
+        ],
+        "Risks": [
+            "Headless integration into CI workflow possibly out of scope"
+        ],
+        "Plans": [
+            "Continue working on user stories",
+            "Identifying a means for generating a UUID",
+            "Ensure there is no further propagation of aforementioned report bug",
+            "Start TRD"
+        ],
+        "Needs": [
+            "Begin generating content/questions for usability testing"
+        ]
+    },
+    {
+        "StartDate": "February 9th, 2023",
+        "Progress": [
+            "Merged server application into main",
+            "Successfully made request between spring boot container and dashboard ",
+            "Dashboard time filtering set-up with test connection to database"
+        ],
+        "Risks": [
+            "None"
+        ],
+        "Plans": [
+            "Continue fleshing out usability testing survey/ instructions",
+            "Continue fleshing out TRD",
+            "Continue working on user stories"
+        ],
+        "Needs": [
+            "Collaborative usability testing instructions?"
         ]
     }
 ]
