@@ -278,5 +278,44 @@
         "Needs": [
             "Collaborative usability testing instructions?"
         ]
+    },
+    {
+        "StartDate": "February 16th, 2023",
+        "Progress": [
+            "Plugin API moved to testing",
+            "Dashboard API moved to testing",
+            "Augmented usability testing instructions/survey"
+        ],
+        "Risks": [
+            "None"
+        ],
+        "Plans": [
+            "Finish unit testing for the repository layer tools",
+            "Begin adding tests for plugin/dashboard APIs"
+        ],
+        "Needs": [
+            "Collaborative usability testing instructions?"
+        ]
+    },
+    {
+        "StartDate": "February 23rd, 2023",
+        "Progress": [
+            "Usability test help email has been created",
+            "Completed testing of the repository layer classes",
+            "Completed initial testing of dashboard API endpoint controller & service functionality"
+        ],
+        "Risks": [
+            "Midterms in coming weeks"
+        ],
+        "Plans": [
+            "UUID, dashboard changes",
+            "Continued testing efforts of APIs and data writing"
+            
+        ],
+        "Needs": [
+            "Schedule midterm retrospective document review",
+            "Usability testing assignment details (if still needed)",
+            "Grad lab computer for hosting during the testing"
+        ]
     }
 ]
