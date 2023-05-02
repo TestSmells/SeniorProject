@@ -6,19 +6,24 @@
             "Signed & collected open source agreements",
             "Organized & attended our team social event"
         ],
-        "Risks": ["Challenge of working across two separate teams: one being our Rochester-based project team and the Hawaii-based team"],
+        "Risks": [
+            "Challenge of working across two separate teams: one being our Rochester-based project team and the Hawaii-based team"
+        ],
         "Plans": [
             "Each member walkthrough TestSmells repository/code, get program running locally",
             "Begin development of our initial domain model"
         ],
-        "Needs": ["Clarification on working structure with Hawaii students"]
+        "Needs": [
+            "Clarification on working structure with Hawaii students"
+        ]
     },
     {
         "StartDate": "September 5th, 2022",
         "Progress": [
             "Added weekly update page to website with ability to add, modify, and delete 4-Ups at any point in time",
             "Continued development of initial domain model",
-            "Created project synopsis draft to be reviewed with the sponsors"],
+            "Created project synopsis draft to be reviewed with the sponsors"
+        ],
         "Risks": [
             "None that affect the current plans we have for both this week and the next"
         ],
@@ -98,7 +103,8 @@
             "MySQL database and phpMyAdmin setup with Docker containers: One command to create and run both containers",
             "SQL script to populate db with random data for testing purposes",
             "Began investigations into modes of communication with the database",
-            "Made progress on midterm review","Began drafting landing page for the dashboard",
+            "Made progress on midterm review",
+            "Began drafting landing page for the dashboard",
             "Wrote first draft of API specification document"
         ],
         "Risks": [
@@ -310,12 +316,137 @@
         "Plans": [
             "UUID, dashboard changes",
             "Continued testing efforts of APIs and data writing"
-            
         ],
         "Needs": [
             "Schedule midterm retrospective document review",
             "Usability testing assignment details (if still needed)",
             "Grad lab computer for hosting during the testing"
         ]
+    },
+    {
+        "StartDate": "March 2nd, 2023",
+        "Progress": [
+            "Midterm 2nd semester evaluation doc filled out",
+            "Explored version compatibility of plugin, SDK compatibility",
+            "Dashboard legend and axes text size increased",
+            "Dashboard color picker added",
+            "Persistent UUID implemented"
+        ],
+        "Risks": [
+            "API testing proving more onerous that anticipated"
+        ],
+        "Plans": [
+            "Continue API testing, work on merging those classes to main",
+            "Begin UUID testing"
+        ],
+        "Needs": []
+    },
+    {
+        "StartDate": "March 9th, 2023",
+        "Progress": [
+            "First successful batch of data sent from plugin and received on dashboard over multiple machines",
+            "Updated usability testing with activity instruction",
+            "Reviewed and addressed feedback on multiple PRs: dashboard api, plugin api, plugin data, and dashboard related functionality",
+            "Applied change that allows for dependencies to be updated to the latest IntelliJ version",
+            "Added separate colors to the dashboard (need approval on how it works)"
+        ],
+        "Risks": [],
+        "Plans": [
+            "Continue testing plugin data branch",
+            "Finish reviewing PRs and merge in where possible",
+            "Fix minor dashboard display bug"
+        ],
+        "Needs": []
+    },
+    {
+        "StartDate": "March 23rd, 2023",
+        "Progress": [
+            "Merged plugin API to main",
+            "Merged dashboard API into main"
+        ],
+        "Risks": [
+            "Possible application settings rework"
+        ],
+        "Plans": [
+            "Look into removing excessive usage of static methods / references if agreed upon by sponsors & coach",
+            "Remove jooq dependency from master branch",
+            "Flesh out “assignment” for open testing",
+            "Continued TRD progress"
+        ],
+        "Needs": [
+            "We might actually need that grad lab computer."
+        ]
+    },
+    {
+        "StartDate": "March 30th, 2023",
+        "Progress": [
+            "Cleaned up stale/redundant feature branches",
+            "Tested plugin data piping (waiting on final review before merge)"
+        ],
+        "Risks": [
+            "Remaining time in semester could impact ability to act on feedback from testing/beta"
+        ],
+        "Plans": [
+            "Merge remaining branches into main",
+            "Elaborate on design section in TRD",
+            "Headless mode testing",
+            "Begin working on team poster/results video"
+        ],
+        "Needs": [
+            "TRD Requirements review"
+        ]
+    },
+    {
+        "StartDate": "April 6th, 2023",
+        "Progress": [
+            "Cleaned up stale/redundant feature branches",
+            "TRD progress",
+            "Merged dashboard into main",
+            "Merged plugin data into branch",
+            "Made separate branch for configs"
+        ],
+        "Risks": [],
+        "Plans": [
+            "Record video detailing the team’s project results",
+            "Finalize poster",
+            "Focus on testing headless mode"
+        ],
+        "Needs": [
+            "Grad lab machine"
+        ]
+    },
+    {
+        "StartDate": "April 13th, 2023",
+        "Progress": [
+            "Created project results video",
+            "Updated poster content",
+            "Gained access to an RIT hosted VM"
+        ],
+        "Risks": [
+            "VM config unfamiliarities"
+        ],
+        "Plans": [
+            "Finalize poster",
+            "Setup docker on VM",
+            "Prepare for/execute usability test",
+            "Continue fleshing out TRD",
+            "No meeting next week, SE senior rally"
+        ],
+        "Needs": []
+    },
+    {
+        "StartDate": "April 27th, 2023",
+        "Progress": [
+            "Usability test concluded",
+            "Headless mode is largely functional, with some restrictions"
+        ],
+        "Risks": [
+            "Final projects/assignments/tests ramping up"
+        ],
+        "Plans": [
+            "Finish TRD, final presentation",
+            "Schedule, execute final retrospective"
+        ],
+        "Needs": []
     }
 ]
